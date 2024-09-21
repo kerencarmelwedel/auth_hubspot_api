@@ -1,0 +1,21 @@
+{
+  "name": "auth_hubspot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js",
+    "debug": "node --inspect-brk ./node_modules/.bin/mocha tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
