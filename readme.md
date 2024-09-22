@@ -2,6 +2,12 @@
 
 The following tests were created using **Mocha JS** for testing contact creation and update functionality in hubspot.
 
+Frist, run 
+### `npm install`
+Then 
+### `npm run test`
+to run the tests 
+
 ## CreateContact
 
 - <span style="color:green">✔</span> should successfully create a new contact with valid details
