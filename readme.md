@@ -2,7 +2,7 @@
 
 The following tests were created using **Mocha JS** for testing contact creation and update functionality in hubspot.
 
-Frist, run 
+First, run 
 ### `npm install`
 Then 
 ### `npm run test`
